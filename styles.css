@@ -1,0 +1,6 @@
+.card-body-left-right{
+   display:flex;
+   justify-content:end;
+   align-items:end;
+
+}
